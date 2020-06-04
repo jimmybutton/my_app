@@ -5,4 +5,4 @@ end
 def add_stuff(one, two)
 end
 
-parrot "Git is awesome
+parrot "Git is awesome"
